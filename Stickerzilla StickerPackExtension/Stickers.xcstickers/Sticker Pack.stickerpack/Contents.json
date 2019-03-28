@@ -1,4 +1,30 @@
 {
+  "stickers" : [
+    {
+      "filename" : "feather.sticker"
+    },
+    {
+      "filename" : "bomb.sticker"
+    },
+    {
+      "filename" : "bronze_coin.sticker"
+    },
+    {
+      "filename" : "book.sticker"
+    },
+    {
+      "filename" : "clover.sticker"
+    },
+    {
+      "filename" : "belt.sticker"
+    },
+    {
+      "filename" : "backpack.sticker"
+    },
+    {
+      "filename" : "ring.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
